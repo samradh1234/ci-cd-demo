@@ -1,7 +1,9 @@
 {
-"name":"ci-cd demo",
-"version": "1.0.0",
-"scripts":{
-  "test":"echo 'running sample tests' "
-}
+  "name": "ci-cd demo",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'building project...'",
+    "test": "echo 'running sample tests'",
+    "deploy": "echo 'deploying project...'"
+  }
 }
