@@ -1,13 +1,7 @@
 {
-  "name": "cid-cid",
-  "version": "1.0.0",
-  "description": "Simple CI/CD demo with build, test, and deploy jobs",
-  "main": "index.js",
-  "scripts": {
-    "build": "echo Building project...",
-    "test": "echo Running tests... && echo All tests passed!",
-    "deploy": "echo Deploying app..."
-  },
-  "author": "Your Name",
-  "license": "MIT"
+"name":"ci-cd demo",
+"version": "1.0.0",
+"scripts":{
+  "test":"echo 'running sample tests' "
+}
 }
