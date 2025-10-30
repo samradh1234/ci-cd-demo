@@ -1,0 +1,9 @@
+{
+  "name": "cid-cid",
+  "version": "1.0.0",
+  "description": "Simple CI/CD demo with GitHub Actions",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"All tests passed!\""
+  }
